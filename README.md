@@ -4,7 +4,7 @@
 
 | Nama              | NRP        |
 |-------------------|------------|
-| (nama)            | (nrp)      |
+| Hisyam Syafa Raditya | 5025241130 |
 
 ## Deskripsi Tugas
 Pada tugas ini, kita akan menggunakan FIFA 24 player stats Dataset. Dataset bisa diakses melalui link berikut:\
